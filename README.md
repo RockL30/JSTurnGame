@@ -1,4 +1,7 @@
-[Click here to play the game]([url](https://rockl30.github.io/JSTurnGame/))
+## 
+Play the game
+
+[Click here to play the game](https://rockl30.github.io/JSTurnGame/)
 
 Set and Run the Game
 ---
