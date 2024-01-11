@@ -1,0 +1,10 @@
+@import url('../components/board/board.css');
+@import url('../components/weapon/weapon.css');
+@import url('../components/player/player.css');
+
+:root {
+    --color-sword: #000000; /* #007bff (Blue) for the sword */
+    --color-bow: #000000; /* #28a745 (Green) for the bow */
+    --color-axe: #000000; /* #dc3545 (Red) for the axe */
+    --color-cupcake: #000000; /* #ffc107 (Yellow) for the cupcake */
+}

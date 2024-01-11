@@ -1,0 +1,21 @@
+/* General style for all weapons */
+.weapon {
+    font-weight: bold; 
+}
+
+/* Specific styles for each weapon type */
+.weapon-sword {
+    color: var(--color-sword);
+}
+
+.weapon-bow {
+    color: var(--color-bow);
+}
+
+.weapon-axe {
+    color: var(--color-axe);
+}
+
+.weapon-cupcake {
+    color: var(--color-cupcake);
+}

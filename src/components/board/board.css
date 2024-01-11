@@ -1,0 +1,28 @@
+#gameBoard {
+    display: flex;
+    justify-content: center;
+}
+
+#gameBoard table {
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+#gameBoard td {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+
+#gameBoard td.unavailable {
+    background-color: #aaa;
+    color: #fff;
+}
+
+.highlight-move {
+    background-color: lightgreen; 
+}
+.highlight-hover {
+    background-color: lightblue; 
+}

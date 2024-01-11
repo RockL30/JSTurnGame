@@ -1,0 +1,5 @@
+.current-player {
+    border: 3px solid blue; /* Change the color and width as needed */
+    padding: 10px;
+    box-sizing: border-box; /* To keep the layout consistent */
+}
