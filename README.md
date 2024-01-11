@@ -1,10 +1,9 @@
-## 
-Play the game
+## Demo
 
 [Click here to play the game](https://rockl30.github.io/JSTurnGame/)
 
-Set and Run the Game
 ---
+Set and Run the Game
 **To run the game, you need to execute a live server.**
 
 ### Installing the live server:
