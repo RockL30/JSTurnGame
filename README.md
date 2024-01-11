@@ -1,3 +1,5 @@
+[Click here to play the game]([url](https://rockl30.github.io/JSTurnGame/))
+
 Set and Run the Game
 ---
 **To run the game, you need to execute a live server.**
