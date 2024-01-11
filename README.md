@@ -14,7 +14,6 @@ In VSCode:
 2. Press `Ctrl+Shift+P`.
 3. Then select the 'Live Server: Open with Live Server' option.
 
----
 ## Game Development Progress
 ### Step 1 - Generate the Map
 
