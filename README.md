@@ -1,5 +1,21 @@
-## Game Development Progress
+Set and Run the Game
+---
+**To run the game, you need to execute a live server.**
 
+### Installing the live server:
+I recommend using VSCode, as this is the IDE I've used for this project. 
+In VSCode:
+
+1. Go to Extensions (`Ctrl+Shift+X`).
+2. Paste this ID: `ritwickdey.LiveServer`, into the Search Extensions bar.
+
+### Running the live server:
+1. Go to the `index.html` file.
+2. Press `Ctrl+Shift+P`.
+3. Then select the 'Live Server: Open with Live Server' option.
+
+---
+## Game Development Progress
 ### Step 1 - Generate the Map
 
 - [x] Initialize a grid to represent the game map.
@@ -73,18 +89,3 @@
 - [x] End the game when a player's life points fall to 0:
     - [x] Display a message and handle the game's conclusion, like resetting or offering a rematch.
 
----
-
-**To run the game, you need to execute a live server.**
-
-### Installing the live server:
-I recommend using VSCode, as this is the IDE I've used for this project. 
-In VSCode:
-
-1. Go to Extensions (`Ctrl+Shift+X`).
-2. Paste this ID: `ritwickdey.LiveServer`, into the Search Extensions bar.
-
-### Running the live server:
-1. Go to the `index.html` file.
-2. Press `Ctrl+Shift+P`.
-3. Then select the 'Live Server: Open with Live Server' option.
